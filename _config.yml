@@ -110,7 +110,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "개발자란 자신의 전문적 기술로 세상의 행복을 추구하는 사람이다."
   location         : "South Korea"
-  email            :
+  email            : "heejaedev@gmail.com"
   links:
     - label: "heejaedev@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
