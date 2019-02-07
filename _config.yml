@@ -282,9 +282,9 @@ compress_html:
 
 # Defaults
 defaults:
-  _post
+  _posts
   - scope:
-      path: ""
+      path: "/_post"
       type: posts
     values:
       layout: single
