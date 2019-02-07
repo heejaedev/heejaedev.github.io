@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 시작합니다
 comments: true
 tags: [jekyll, github, mardown, test]
